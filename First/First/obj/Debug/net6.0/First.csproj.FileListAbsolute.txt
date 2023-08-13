@@ -1,0 +1,15 @@
+/Users/niteshres/Projects/First/First/bin/Debug/net6.0/First
+/Users/niteshres/Projects/First/First/bin/Debug/net6.0/First.deps.json
+/Users/niteshres/Projects/First/First/bin/Debug/net6.0/First.runtimeconfig.json
+/Users/niteshres/Projects/First/First/bin/Debug/net6.0/First.dll
+/Users/niteshres/Projects/First/First/bin/Debug/net6.0/First.pdb
+/Users/niteshres/Projects/First/First/obj/Debug/net6.0/First.csproj.AssemblyReference.cache
+/Users/niteshres/Projects/First/First/obj/Debug/net6.0/First.GeneratedMSBuildEditorConfig.editorconfig
+/Users/niteshres/Projects/First/First/obj/Debug/net6.0/First.AssemblyInfoInputs.cache
+/Users/niteshres/Projects/First/First/obj/Debug/net6.0/First.AssemblyInfo.cs
+/Users/niteshres/Projects/First/First/obj/Debug/net6.0/First.csproj.CoreCompileInputs.cache
+/Users/niteshres/Projects/First/First/obj/Debug/net6.0/First.dll
+/Users/niteshres/Projects/First/First/obj/Debug/net6.0/refint/First.dll
+/Users/niteshres/Projects/First/First/obj/Debug/net6.0/First.pdb
+/Users/niteshres/Projects/First/First/obj/Debug/net6.0/First.genruntimeconfig.cache
+/Users/niteshres/Projects/First/First/obj/Debug/net6.0/ref/First.dll

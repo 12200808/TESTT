@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{47207A1B-273B-4252-BF01-0016356F6036}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="First/Program.cs">
+    <Files>
+      <File FileName="First/appsettings.json" Line="1" Column="1" />
+      <File FileName="First/Program.cs" Line="32" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="First" expanded="True">
+            <Node name="First" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.First PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
