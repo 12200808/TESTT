@@ -20,7 +20,7 @@
 
         int b = Convert.ToInt32(Console.ReadLine());
 
-        int result = a - b;
+        int result = a  * b;
 
         Console.WriteLine("The total is:" + result);
 
